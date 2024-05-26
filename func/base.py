@@ -15,7 +15,7 @@ data_path.mkdir(exist_ok=True)
 async def get_item_base(item_path: str, item_type: Type[BaseModel], fix_func=None):
     req = await client.get(f"{BASE_URL}/{item_path}")
     req.raise_for_status()
-    data = fix_func(req.json()) if fix_func else req.json()
+    data = await fix_func(req.json()) if fix_func else req.json()
     item_data = item_type(**data)
     return item_data
 
@@ -25,3 +25,8 @@ def save_data(item_path: str, item_datas: List[BaseModel]):
     item_data = [i.dict(by_alias=True) for i in item_datas]
     with path.open("w", encoding="utf-8") as f:
         json.dump(item_data, f, ensure_ascii=False, indent=4)
+
+
+async def have_url(url: str) -> bool:
+    req = await client.head(url)
+    return req.status_code == 200

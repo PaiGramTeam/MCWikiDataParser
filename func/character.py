@@ -8,7 +8,7 @@ async def get_characters():
     return await get_item_base("character", EncoreAvatars)
 
 
-def fix_character(data: Dict[str, Any]) -> Dict[str, Any]:
+async def fix_character(data: Dict[str, Any]) -> Dict[str, Any]:
     data["Name"] = data["Name"]["Content"]
     return data
 
