@@ -7,7 +7,10 @@ from pydantic import BaseModel
 from pathlib import Path
 
 BASE_URL = "https://api.encore.moe/zh-Hans"
-client = AsyncClient(timeout=60.0)
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+}
+client = AsyncClient(timeout=60.0, headers=headers)
 data_path = Path("data")
 data_path.mkdir(exist_ok=True)
 
