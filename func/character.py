@@ -1,3 +1,4 @@
+import asyncio
 from typing import Dict, Any
 
 from .base import get_item_base, save_data
@@ -19,5 +20,13 @@ async def get_character(character_id: int):
 
 async def main():
     characters = await get_characters()
-    data = [await get_character(character.Id) for character in characters.roleList]
+    tasks, data = [], []
+    for character in characters.roleList:
+        tasks.append(get_character(character.Id))
+        if len(tasks) == 5:
+            data.extend(await asyncio.gather(*tasks))
+            tasks = []
+    if tasks:
+        data.extend(await asyncio.gather(*tasks))
+    # data = [await get_character(character.Id) for character in characters.roleList]
     save_data("character", data)

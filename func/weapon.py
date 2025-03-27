@@ -1,3 +1,4 @@
+import asyncio
 from typing import Dict, Any
 
 from .base import get_item_base, save_data
@@ -33,5 +34,12 @@ async def get_weapon(weapon_id: int):
 
 async def main():
     weapons = await get_weapons()
-    data = [await get_weapon(weapon.Id) for weapon in weapons.weapons]
+    tasks, data = [], []
+    for weapon in weapons.weapons:
+        tasks.append(get_weapon(weapon.Id))
+        if len(tasks) == 5:
+            data.extend(await asyncio.gather(*tasks))
+            tasks = []
+    if tasks:
+        data.extend(await asyncio.gather(*tasks))
     save_data("weapon", data)
