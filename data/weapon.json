@@ -1,0 +1,882 @@
+[
+    {
+        "ItemId": 21010015,
+        "WeaponName": "浩境粼光",
+        "BgDescription": "凝视它——在凛冽的刃锋之中，仿佛能看到微风骤起，那片无止尽的湖水泛起阵阵冰寒粼光。忘我地挥舞这把长刃，便能感觉到如水般清澈的刀身中积蓄的能量。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010015_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010015_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010015_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21020015,
+        "WeaponName": "千古洑流",
+        "BgDescription": "倾听它——在冷峭的刀刃之下，仿佛能听见极寒冰流暗涌的声音，思想渐渐如水般聚流成涡。跟随此流向翻飞，手中的迅刀将吞噬一切落入其中的敌人。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020015_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020015_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020015_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21030015,
+        "WeaponName": "停驻之烟",
+        "BgDescription": "抓住它——在凄清的枪身之中，仿佛能抓住那宛若静止的万里湖烟，瞬间冻结的冰砾停于指缝。握住这佩枪的扳机，让喷吐出的浓厚湖烟，蔓延在战场的每一个角落。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030015_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030015_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030015_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21040015,
+        "WeaponName": "擎渊怒涛",
+        "BgDescription": "感受它——在暴烈的臂铠之上，仿佛能感受到来自湖底未知深潭的翻涌怒涛，不可名状，不可消解。咆哮着戴上此臂铠，向敌人宣泄无处可去的愤怒。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040015_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040015_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040015_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21050015,
+        "WeaponName": "漪澜浮录",
+        "BgDescription": "触碰它——在冰寒的矩阵之间，仿佛能触碰到围绕在天地之间的那片湖，它将指引你找到一切答案。怀抱此音感仪，消灭所有阻挡在你与真理之间的敌人。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050015_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050015_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050015_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21010024,
+        "WeaponName": "异响空灵",
+        "BgDescription": "以乐谱频率为灵感创作的长刃。音阶下行，手持此刃，将以异响之力引领战局，佳作永不落幕。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010024_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010024_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010024_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21020024,
+        "WeaponName": "行进序曲",
+        "BgDescription": "以乐谱频率为灵感创作的迅刀。音阶上行，手持此刃，以悦耳之鸣，谱写华丽序曲。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020024_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020024_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020024_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21030024,
+        "WeaponName": "华彩乐段",
+        "BgDescription": "以乐谱频率为灵感创作的佩枪。音阶上行，手持此枪，将以破空之势贯穿雷霆，演绎绝妙乐章。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030024_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030024_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030024_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21040024,
+        "WeaponName": "呼啸重音",
+        "BgDescription": "以乐谱频率为灵感创作的臂铠。音阶下行，臂有此铠，以巨浪之音呼啸狂怒，锻造高昂交响。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040024_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040024_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040024_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21050024,
+        "WeaponName": "奇幻变奏",
+        "BgDescription": "以乐谱频率为灵感创作的音感仪。音阶下行，手持此器，将以洞悉之态寻觅战策，协奏就此变调。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050024_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050024_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050024_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21010013,
+        "WeaponName": "暗夜长刃·玄明",
+        "BgDescription": "夜归常用长刃，经过历代军士改进，如今是战场上最常见的武器。“穿越长夜，胜利归来”不仅是必胜的决心，更是守护的誓言。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010013_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010013_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010013_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21020013,
+        "WeaponName": "暗夜迅刀·黑闪",
+        "BgDescription": "夜归常用迅刀，经过历代军士改进，如今是战场上最常见的武器。“穿越长夜，胜利归来”不仅是必胜的决心，更是守护的誓言。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020013_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020013_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020013_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21030013,
+        "WeaponName": "暗夜佩枪·暗星",
+        "BgDescription": "夜归常用佩枪，经过历代军士改进，如今是战场上最常见的武器。“穿越长夜，胜利归来”不仅是必胜的决心，更是守护的誓言。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030013_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030013_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030013_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21040013,
+        "WeaponName": "暗夜臂铠·夜芒",
+        "BgDescription": "夜归常用臂铠，经过历代军士改进，如今是战场上最常见的武器。“穿越长夜，胜利归来”不仅是必胜的决心，更是守护的誓言。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040013_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040013_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040013_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21050013,
+        "WeaponName": "暗夜矩阵·暝光",
+        "BgDescription": "夜归常用音感仪，经历代军士改进，如今是战场上最常见的武器。“穿越长夜，胜利归来”不仅是必胜的决心，更是守护的誓言。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050013_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050013_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050013_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21010012,
+        "WeaponName": "原初长刃·朴石",
+        "BgDescription": "专为新手共鸣者特制的长刃，低调朴实的外表下，蕴含着不容小觑的战斗力。",
+        "QualityId": 2,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010012_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010012_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010012_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04BS.SM_Pro_Roc_04BS"
+    },
+    {
+        "ItemId": 21020012,
+        "WeaponName": "原初迅刀·鸣雨",
+        "BgDescription": "专为新手共鸣者特制的迅刀，低调朴实的外表下，蕴含着不容小觑的战斗力。",
+        "QualityId": 2,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020012_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020012_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020012_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04BS.SM_Pro_Roc_04BS"
+    },
+    {
+        "ItemId": 21030012,
+        "WeaponName": "原初佩枪·穿林",
+        "BgDescription": "专为新手共鸣者特制的佩枪，低调朴实的外表下，蕴含着不容小觑的战斗力。",
+        "QualityId": 2,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030012_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030012_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030012_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04BS.SM_Pro_Roc_04BS"
+    },
+    {
+        "ItemId": 21040012,
+        "WeaponName": "原初臂铠·磐岩",
+        "BgDescription": "专为新手共鸣者特制的臂铠，低调朴实的外表下，蕴含着不容小觑的战斗力。",
+        "QualityId": 2,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040012_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040012_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040012_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04BS.SM_Pro_Roc_04BS"
+    },
+    {
+        "ItemId": 21050012,
+        "WeaponName": "原初音感仪·听浪",
+        "BgDescription": "专为新手共鸣者特制的音感仪，低调朴实的外表下，蕴含着不容小觑的战斗力。",
+        "QualityId": 2,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050012_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050012_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050012_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04BS.SM_Pro_Roc_04BS"
+    },
+    {
+        "ItemId": 21010011,
+        "WeaponName": "教学长刃",
+        "BgDescription": "用于训练与教学的长刃，只具备基础的功能。",
+        "QualityId": 1,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010011_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010011_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010011_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04AS.SM_Pro_Roc_04AS"
+    },
+    {
+        "ItemId": 21020011,
+        "WeaponName": "教学迅刀",
+        "BgDescription": "用于训练与教学的迅刀，只具备基础的功能。",
+        "QualityId": 1,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020011_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020011_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020011_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04AS.SM_Pro_Roc_04AS"
+    },
+    {
+        "ItemId": 21030011,
+        "WeaponName": "教学佩枪",
+        "BgDescription": "用于训练与教学的佩枪，只具备基础的功能。",
+        "QualityId": 1,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030011_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030011_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030011_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04AS.SM_Pro_Roc_04AS"
+    },
+    {
+        "ItemId": 21040011,
+        "WeaponName": "教学臂铠",
+        "BgDescription": "用于训练与教学的臂铠，只具备基础的功能。",
+        "QualityId": 1,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040011_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040011_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040011_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04AS.SM_Pro_Roc_04AS"
+    },
+    {
+        "ItemId": 21050011,
+        "WeaponName": "教学音感仪",
+        "BgDescription": "用于训练与教学的音感仪，只具备基础的功能。",
+        "QualityId": 1,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050011_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050011_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050011_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04AS.SM_Pro_Roc_04AS"
+    },
+    {
+        "ItemId": 21010023,
+        "WeaponName": "源能长刃·测壹",
+        "BgDescription": "为开发新型黑石武器，华胥研究院以技术验证为目的打造的测试型长刃，除了不俗的武器性能，最大的特点是能通过攻击提高共鸣者身体活性治愈伤口。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010023_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010023_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010023_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21020023,
+        "WeaponName": "源能迅刀·测贰",
+        "BgDescription": "为开发新型黑石武器，华胥研究院以技术验证为目的打造的测试型迅刀，除了不俗的武器性能，最大的特点是能通过攻击提高共鸣者身体活性治愈伤口。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020023_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020023_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020023_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21050023,
+        "WeaponName": "源能音感仪·测五",
+        "BgDescription": "为开发新型黑石武器，华胥研究院以技术验证为目的打造的测试型音感仪，除了不俗的武器性能，最大的特点是能通过攻击提高共鸣者身体活性治愈伤口。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050023_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050023_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050023_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21010034,
+        "WeaponName": "重破刃-41型",
+        "BgDescription": "华胥研究院在此前源能武器的基础上进行自主改进、研发的第一把极具实用性的高性能长刃，代表着研究院的理性与开放，坚不可摧。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010034_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010034_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010034_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21020034,
+        "WeaponName": "瞬斩刀-18型",
+        "BgDescription": "华胥研究院在此前源能武器的基础上进行自主改进、研发的第一把极具实用性的高性能迅刀，代表着研究院的过往与发展，历久弥新。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020034_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020034_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020034_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21050034,
+        "WeaponName": "鸣动仪-25型",
+        "BgDescription": "华胥研究院在此前源能武器的基础上进行自主改进、研发的第一个极具实用性的高性能音感仪，代表着研究院的多元与创新，瞬息万状。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050034_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050034_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050034_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21010044,
+        "WeaponName": "永夜长明",
+        "BgDescription": "为纪念夜归战士的常备不懈而打造的长刃。有诗赞曰：“漫漫长夜秋萧瑟，点点星光负长缨。”",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010044_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010044_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010044_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21020044,
+        "WeaponName": "不归孤军",
+        "BgDescription": "为纪念夜归战士的一往无前而打造的迅刀。有诗赞曰：“千音万阙传惊鼓，百兵一心出云陵。”",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020044_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020044_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020044_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21030044,
+        "WeaponName": "无眠烈火",
+        "BgDescription": "为纪念夜归战士的舍生忘死而打造的佩枪。有诗赞曰：“会燃残躯成烈火，焚焰灼尽天下安。”",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030044_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030044_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030044_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21040044,
+        "WeaponName": "袍泽之固",
+        "BgDescription": "为纪念夜归战士的同袍之义而打造的臂铠。有诗赞曰“薄衣难抵霜晨月，铁甲能断星垂寒。”",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040044_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040044_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040044_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21050044,
+        "WeaponName": "今州守望",
+        "BgDescription": "为纪念夜归战士对今州的守护而打造的音感仪。有诗赞曰：“湖城北望荒石岭，氤氲暗雨遮朔关。”",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050044_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050044_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050044_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21010043,
+        "WeaponName": "远行者长刃·辟路",
+        "BgDescription": "先行公约为远行者提供的长刃，色泽鲜明，不易丢失，质地坚硬，能长期应对多种极端环境，在探险家群体中极受欢迎。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010043_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010043_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010043_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21020043,
+        "WeaponName": "远行者迅刀·旅迹",
+        "BgDescription": "先行公约为远行者提供的迅刀，色泽鲜明，不易丢失，质地坚硬，能长期应对多种极端环境，在探险家群体中极受欢迎。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020043_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020043_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020043_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21050043,
+        "WeaponName": "远行者矩阵·探幽",
+        "BgDescription": "先行公约为远行者提供的音感仪，色泽鲜明，不易丢失，质地坚硬，能长期应对多种极端环境，在探险家群体中极受欢迎。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050043_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050043_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050043_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21010053,
+        "WeaponName": "戍关长刃·定军",
+        "BgDescription": "初代今州令尹为纪念守住边关、帮助建城的神秘人，根据其指导打造出戍关系列。如今，它已成为新型武器研发绕不开的基石。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010053_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010053_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010053_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21020053,
+        "WeaponName": "戍关迅刀·镇海",
+        "BgDescription": "初代今州令尹为纪念守住边关、帮助建城的神秘人，根据其指导打造出戍关系列。如今，它已成为新型武器研发绕不开的基石。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020053_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020053_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020053_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21030053,
+        "WeaponName": "戍关佩枪·平云",
+        "BgDescription": "初代今州令尹为纪念守住边关、帮助建城的神秘人，根据其指导打造出戍关系列。如今，它已成为新型武器研发绕不开的基石。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030053_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030053_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030053_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21040053,
+        "WeaponName": "戍关臂铠·拔山",
+        "BgDescription": "初代今州令尹为纪念守住边关、帮助建城的神秘人，根据其指导打造出戍关系列。如今，它已成为新型武器研发绕不开的基石。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040053_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040053_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040053_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21050053,
+        "WeaponName": "戍关音感仪·留光",
+        "BgDescription": "初代今州令尹为纪念守住边关、帮助建城的神秘人，根据其指导打造出戍关系列。如今，它已成为新型武器研发绕不开的基石。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050053_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050053_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050053_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21010064,
+        "WeaponName": "东落",
+        "BgDescription": "因空中奇象而生的长刃。锻造者将目睹异星的感受融于武器之中，使它看起来镂空轻盈、却能发挥出星陨时那般无敌重力。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010064_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010064_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010064_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21020064,
+        "WeaponName": "西升",
+        "BgDescription": "因空中奇象而生的迅刀。锻造者将目睹异星的感受融于武器之中，使它看起来轻快锋利，却能发挥出利破长空、削铁如泥的能量。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020064_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020064_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020064_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21030064,
+        "WeaponName": "飞逝",
+        "BgDescription": "因空中奇象而生的佩枪。锻造者将目睹异星的感受融于武器之中，使它看起来镂空轻盈、却稳定性极强，出枪弹雨有雷霆威力。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030064_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030064_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030064_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21050064,
+        "WeaponName": "异度",
+        "BgDescription": "因空中奇象而生的音感仪。锻造者将目睹异星的感受融于武器之中，使它看起来纤巧轻盈、却能沉稳恒定、应变有方。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050064_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050064_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050064_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21030023,
+        "WeaponName": "源能佩枪·测叁",
+        "BgDescription": "为开发新型黑石武器，华胥研究院以技术验证为目的打造的测试型佩枪，除了不俗的武器性能，最大的特点是能通过攻击提高共鸣者身体活性治愈伤口。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030023_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030023_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030023_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21040023,
+        "WeaponName": "源能臂铠·测肆",
+        "BgDescription": "为开发新型黑石武器，华胥研究院以技术验证为目的打造的测试型臂铠，除了不俗的武器性能，最大的特点是能通过攻击提高共鸣者身体活性治愈伤口。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040023_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040023_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040023_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21030034,
+        "WeaponName": "穿击枪-26型",
+        "BgDescription": "华胥研究院在此前源能武器的基础上进行自主改进、研发的第一把极具实用性的高性能佩枪，代表着研究院的精研与缜密，直指深邃。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030034_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030034_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030034_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21040034,
+        "WeaponName": "钢影拳-21丁型",
+        "BgDescription": "华胥研究院在此前源能武器的基础上进行自主改进、研发的第一套极具实用性的高性能臂铠，代表着研究院的关怀与温情，稳固持久。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040034_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040034_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040034_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21010074,
+        "WeaponName": "纹秋",
+        "BgDescription": "此长刃是瑝珑一州令尹就任仪式上使用的典礼武器，黄金银杏叶花纹代表了瑝珑应如银杏一般，虽孑遗世上，却依旧繁荣长存。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010074_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010074_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010074_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21020074,
+        "WeaponName": "飞景",
+        "BgDescription": "此迅刀是瑝珑一州令尹就任仪式上使用的典礼武器，黄金银杏叶花纹代表了瑝珑应如银杏一般，虽孑遗世上，却依旧繁荣长存。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020074_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020074_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020074_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21030074,
+        "WeaponName": "奔雷",
+        "BgDescription": "此佩枪是瑝珑一州令尹就任仪式上使用的典礼武器，黄金银杏叶花纹代表了瑝珑应如银杏一般，虽孑遗世上，却依旧繁荣长存。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030074_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030074_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030074_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21040074,
+        "WeaponName": "金掌",
+        "BgDescription": "此臂铠是瑝珑一州令尹就任仪式上使用的典礼武器，黄金银杏叶花纹代表了瑝珑应如银杏一般，虽孑遗世上，却依旧繁荣长存。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040074_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040074_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040074_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21050074,
+        "WeaponName": "清音",
+        "BgDescription": "此音感仪是瑝珑一州令尹就任仪式上使用的典礼武器，黄金银杏叶花纹代表了瑝珑应如银杏一般，虽孑遗世上，却依旧繁荣长存。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050074_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050074_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050074_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21010016,
+        "WeaponName": "苍鳞千嶂",
+        "BgDescription": "千年高山为脊，万载江水为刃，天地自化，凝成此器。利刃出鞘，龙吟破空，顷刻间白波若山，海水震荡，声侔鬼神，惮赫千里。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010016_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010016_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010016_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21050016,
+        "WeaponName": "掣傀之手",
+        "BgDescription": "金掌张开，绳索引动，凌空天象凝集其中，所向之敌会被无形的气势所压迫而无法动作，千束疾电造成的伤痕将永远无法愈合。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050016_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050016_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050016_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21010084,
+        "WeaponName": "凋亡频移",
+        "BgDescription": "黑海岸为资深战斗人员研发的实验型武器，以耀变体的命运为名的长刃。“耀变”是特殊类星体的名字，它们迸发的光辉仅仅投向此处——即使相隔百亿光年，也能观测到它们的痕迹。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010084_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010014_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010084_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21020084,
+        "WeaponName": "永续坍缩",
+        "BgDescription": "黑海岸为资深战斗人员研发的实验型武器，以耀变体的心脏为名的迅刀。“耀变”是特殊类星体的名字，它们迸发的光辉仅仅投向此处——即使相隔百亿光年，也能观测到它们的痕迹。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020084_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020014_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020084_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21030084,
+        "WeaponName": "悖论喷流",
+        "BgDescription": "黑海岸为资深战斗人员研发的实验型武器，以耀变体的偏执为名的佩枪。“耀变”是特殊类星体的名字，它们迸发的光辉仅仅投向此处——即使相隔百亿光年，也能观测到它们的痕迹。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030084_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030014_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030084_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21050084,
+        "WeaponName": "核熔星盘",
+        "BgDescription": "黑海岸为资深战斗人员研发的实验型武器，以耀变体的罪业为名的音感仪。“耀变”是特殊类星体的名字，它们迸发的光辉仅仅投向此处——即使相隔百亿光年，也能观测到它们的痕迹。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050084_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050014_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050084_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21040064,
+        "WeaponName": "骇行",
+        "BgDescription": "因空中奇象而生的臂铠。锻造者将目睹异星的感受融于武器之中，使它看起来镂空轻盈、却能在保护使用者的同时挥出万钧气势。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040064_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040064_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040064_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21030043,
+        "WeaponName": "远行者佩枪·洞察",
+        "BgDescription": "先行公约为远行者提供的佩枪，色泽鲜明，不易丢失，质地坚硬，能长期应对多种极端环境，在探险家群体中极受欢迎。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030043_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030043_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030043_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21040043,
+        "WeaponName": "远行者臂铠·破障",
+        "BgDescription": "先行公约为远行者提供的臂铠，色泽鲜明，不易丢失，质地坚硬，能长期应对多种极端环境，在探险家群体中极受欢迎。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040043_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040043_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040043_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04CS.SM_Pro_Roc_04CS"
+    },
+    {
+        "ItemId": 21010026,
+        "WeaponName": "时和岁稔",
+        "BgDescription": "剑刃挥斩之间，得以窥见日月流转、物换星移。剑中似有万象，而万象归于其一。温润的剑气仿佛能化解这世上一切坚不可摧之物，不论是凝结千年的寒冰，还是停滞不前的时光。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010026_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010026_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010026_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21020016,
+        "WeaponName": "赫奕流明",
+        "BgDescription": "据传由灵鸟的心血与飞翎化火凝铸。持纵横玄素，引万象流明，离火蔓延之处，锋芒赫奕，诸恶形消神灭，不留尘埃。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020016_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020016_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020016_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21010063,
+        "WeaponName": "钧天正音",
+        "BgDescription": "据说是由角褪下的龙鳞打造而成的礼器，比起刀剑，更像是一把乐器。",
+        "QualityId": 3,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010063_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010063_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010063_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21050026,
+        "WeaponName": "琼枝冰绡",
+        "BgDescription": "奇峰搜尽，遍览山林，玉印见证了无数胜景离跃纸上的生机，攀援而出的花枝指向即将新生的又一处深远画境。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050026_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050026_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050026_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21040016,
+        "WeaponName": "诸方玄枢",
+        "BgDescription": "以稷廷孤学为锻制要理，虽是轻械相衔，却密无罅缝，坚如金石。铸成之器，不为耀武、侵伐，但为破坼万难、钩深索隐。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040016_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040016_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040016_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21050036,
+        "WeaponName": "星序协响",
+        "BgDescription": "载有能量的核心，拟造着群星演化的循环。无限以奇点为源，将牵引的星团抛散，但寂灭流转，末陨尽头处又总传来不息的回声——那是新星诞生时的问候。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050027_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050027_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050027_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21040084,
+        "WeaponName": "尘云旋臂",
+        "BgDescription": "黑海岸为资深战斗人员研发的实验型武器，以耀变体的悲悯为名的臂铠。“耀变”是特殊类星体的名字，它们迸发的光辉仅仅投向此处——即使相隔百亿光年，也能观测到它们的痕迹。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040084_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040074_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040084_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21020017,
+        "WeaponName": "心之锚",
+        "BgDescription": "曾被白色守门人用于稳定心之集域的锚定装置。\n在白色守门人被变化为了白猫的形态后，这个装置的外形也发生了一些变化……",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020019_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020019_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020019_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21050017,
+        "WeaponName": "渊海回声",
+        "BgDescription": "用于奴役宏伟造物的权柄，而看护它的人也曾手捧王冠，指点星河。\n在黎那汐塔洋溢着管风琴声的漫长时光中，它早已遗失了原本的形貌。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050017_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050017_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050017_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21020026,
+        "WeaponName": "裁春",
+        "BgDescription": "静寂抽枝的椿花之种。她将如约绽放的无限世界盛在掌心，让细小的赤色藤蔓与指尖缠绕相连。\n恰似沙砾厮磨心脏的隐约痛楚，即是彼此相遇的证明。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020017_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020017_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020017_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21010094,
+        "WeaponName": "容赦的沉思录",
+        "BgDescription": "武器的设计灵感取材自剧目——《容赦的沉思录》。\n武夫挥击长刃的间隙，思忖着沉重的宽恕之责——是终结他人罪恶的命运，抑或施予怜悯，将灵魂从深渊中解救？每一次挥剑的背后，皆隐藏着审判的痛苦，是愤怒与宽恕的搏斗。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010094_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21010094_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21010094_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21020094,
+        "WeaponName": "风流的寓言诗",
+        "BgDescription": "武器的设计灵感取材自剧目——《风流的寓言诗》。\n以浪客之风流，携笑语之巧妙，携此迅刀讲述寓言之诗——言辞风趣，却蕴藏着真理的暗喻。对明智之人而言，寓言的真谛显而易见；对那些不解之人而言，这不过是一笑置之的玩笑罢了。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020094_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020094_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020094_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21030094,
+        "WeaponName": "叙别的罗曼史",
+        "BgDescription": "武器的设计灵感取材自剧目——《叙别的罗曼史》。\n手中紧握的佩枪，是争夺名利的承诺，是不得之爱的沉重，是未言的词句，颤抖中的沉默，更是永远无法实现的爱的阴影。终幕，它竟成了那最后的告别——扳机声扣响，幕布落下时的轰然震动，徒留一片无法言说的哀伤，回荡在未亡人的心头。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030094_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030094_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030094_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21040094,
+        "WeaponName": "酩酊的英雄志",
+        "BgDescription": "武器的设计灵感取材自剧目——《酩酊的英雄志》。\n那杯中之物，鼓舞灵魂，赐予勇气，以臂铠之膂力逆转命运与战局；或是那同样的祸酿——醉意迷离之时，英雄失去警惕，敌人则趁虚而入。如此，胜利与毁灭常被书写在那酒渍斑驳的传奇篇章中。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040094_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040094_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040094_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21050094,
+        "WeaponName": "虚饰的华尔兹",
+        "BgDescription": "武器的设计灵感取材自剧目——《虚饰的华尔兹》。\n华尔兹，形式而非实质之舞，恢弘的交响掩盖了耳鬓的密谋和私语，飞旋的衣摆遮蔽了悄然交换的字据与书信——心照不宣，如同脚下的舞步般默契，一切悄然流转，犹如音感仪的无声协音。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050094_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050094_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050094_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21040026,
+        "WeaponName": "悲喜剧",
+        "BgDescription": "人世间的哀乐变幻无端， 痛苦转瞬就变成了狂欢。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040018_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040018_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040018_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21030016,
+        "WeaponName": "死与舞",
+        "BgDescription": "溢彩的晶质，暗藏解构与重塑的诡计，它邀你同舞，共赴以生命为筹码的宴请。切步、再切步……无礼的迫近唤起最原始的渴求，直至距离归零，只余战栗颤音……用璀璨的殷红来殉葬吧，请勿忘记，我们终有一死。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030017_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030017_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030017_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21020036,
+        "WeaponName": "不灭航路",
+        "BgDescription": "狂风呼啸，浪涛汹涌。大海将一切吞没其中，唯有船灯大笑！\n前进吧，前进吧！一直航行到世界尽头！",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020025_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020025_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020025_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21050046,
+        "WeaponName": "和光回唱",
+        "BgDescription": "「岁主恩典，何等甘甜，家园今得寻见；衔枝踏浪，以爱相连，圣辉化作冠冕。」",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050029_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050029_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050029_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21050027,
+        "WeaponName": "大海的馈赠",
+        "BgDescription": "大海是渔民的麦田，收获和希望等同。",
+        "QualityId": 4,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050036_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050036_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050036_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04DS.SM_Pro_Roc_04DS"
+    },
+    {
+        "ItemId": 21050056,
+        "WeaponName": "海的呢喃",
+        "BgDescription": "在海中，有人看到星星，有人捞到月亮，也有人听到无数细语和呢喃。\n那些呢喃沁入她的毒里，流淌过每一条蜿蜒的河流。\n最后，那些呢喃将她包裹，像水母的伞，像海。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050030_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21050030_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21050030_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21020046,
+        "WeaponName": "血誓盟约",
+        "BgDescription": "此即为血盟之证——永不背叛，永不放弃，直至最后一滴血流尽。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020026_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020026_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020026_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    }
+]
