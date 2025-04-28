@@ -739,5 +739,43 @@
         "Tips": "先约电台寰宇特约专属奖励。",
         "ShowInBag": false,
         "RedDotDisableRule": 0
+    },
+    {
+        "Id": 80069009,
+        "QualityId": 5,
+        "SortIndex": 409,
+        "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong41.T_CardLong41",
+        "CardPath": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/Card/T_Card41.png",
+        "FunctionViewCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardPolygon/T_CardPolygon_41.T_CardPolygon_41",
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconCard/T_IconCard256_41.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconCard160/T_IconCard160_41.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconCard80/T_IconCard80_41.png",
+        "Title": "团团团团转",
+        "AttributesDescription": "有时大步流星，有时磕磕绊绊。调整呼吸，让我们发挥得更好些。",
+        "ObtainedShowDescription": "",
+        "TypeDescription": "羁旅印章",
+        "BgDescription": "见证漂泊者旅途的印章，可展示给其他旅者。\n在漂泊者信息中可更换羁旅印章。",
+        "Tips": "先约电台寰宇特约专属奖励。",
+        "ShowInBag": false,
+        "RedDotDisableRule": 0
+    },
+    {
+        "Id": 80065008,
+        "QualityId": 5,
+        "SortIndex": 307,
+        "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong43.T_CardLong43",
+        "CardPath": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/Card/T_Card43.png",
+        "FunctionViewCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardPolygon/T_CardPolygon_43.T_CardPolygon_43",
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconCard/T_IconCard256_43.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconCard160/T_IconCard160_43.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconCard80/T_IconCard80_43.png",
+        "Title": "当我们在一起",
+        "AttributesDescription": "就这样一起走下去吧，像一首不会结束的歌。",
+        "ObtainedShowDescription": "",
+        "TypeDescription": "羁旅印章",
+        "BgDescription": "见证漂泊者旅途的印章，可展示给其他旅者。\n在漂泊者信息中可更换羁旅印章。",
+        "Tips": "参与活动「团团团团转」获得",
+        "ShowInBag": false,
+        "RedDotDisableRule": 0
     }
 ]

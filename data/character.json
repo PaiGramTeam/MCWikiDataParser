@@ -476,6 +476,34 @@
         "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleBailian.T_ActivityRoleBailian"
     },
     {
+        "Id": 1407,
+        "Name": "夏空",
+        "Priority": 34,
+        "ElementName": "气动",
+        "RoleHeadIconCircle": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHeadCircle256/T_IconRoleHeadCircle256_37_UI.T_IconRoleHeadCircle256_37_UI",
+        "RoleHeadIconLarge": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_37_UI.png",
+        "RoleHeadIconBig": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_37_UI.png",
+        "Card": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_37_UI.png",
+        "RoleHeadIcon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead80/T_IconRoleHead80_37_UI.png",
+        "FormationRoleCard": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_xiakong_UI.png",
+        "RoleStand": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.png",
+        "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYangyang.T_ActivityRoleYangyang"
+    },
+    {
+        "Id": 1507,
+        "Name": "赞妮",
+        "Priority": 33,
+        "ElementName": "衍射",
+        "RoleHeadIconCircle": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHeadCircle256/T_IconRoleHeadCircle256_38_UI.T_IconRoleHeadCircle256_38_UI",
+        "RoleHeadIconLarge": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_38_UI.png",
+        "RoleHeadIconBig": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_38_UI.png",
+        "Card": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_38_UI.png",
+        "RoleHeadIcon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead80/T_IconRoleHead80_38_UI.png",
+        "FormationRoleCard": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zanni_UI.png",
+        "RoleStand": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.png",
+        "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYangyang.T_ActivityRoleYangyang"
+    },
+    {
         "Id": 1408,
         "Name": "漂泊者·气动",
         "Priority": 2,

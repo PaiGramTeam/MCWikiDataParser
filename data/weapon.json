@@ -878,5 +878,25 @@
         "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020026_UI.png",
         "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020026_UI.png",
         "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21040036,
+        "WeaponName": "焰光裁定",
+        "BgDescription": "它宣告报应终至，如钟表般精确、稳定且毫不留情——一切罪愆终将消弭于焰光，如同晨曦逐散夜幕。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040019_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21040019_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21040019_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
+    },
+    {
+        "ItemId": 21030026,
+        "WeaponName": "林间的咏叹调",
+        "BgDescription": "万物皆于诗行之中，万物之声皆于音律之中。\n林间的乐声攀着无形天梯螺旋向上。月光为旋律沐浴银辉，夜莺为和声伴唱。当最后一个音符坠入寂静的大地上，完美的回声在大地胸腔永恒回响。",
+        "QualityId": 5,
+        "Icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030026_UI.png",
+        "IconMiddle": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21030026_UI.png",
+        "IconSmall": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21030026_UI.png",
+        "Mesh": "/Game/Aki/Scene/Assets/Common/Interaction/Mesh/SM_Pro_Roc_04ES.SM_Pro_Roc_04ES"
     }
 ]
